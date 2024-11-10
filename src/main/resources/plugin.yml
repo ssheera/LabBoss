@@ -1,0 +1,7 @@
+name: LabBoss
+version: 1.0
+main: org.darklol9.labs.LabBoss
+author: darklol9
+description: Bosses plugin for PvPLab
+depend:
+  - MassiveCore
